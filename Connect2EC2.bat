@@ -1,0 +1,1 @@
+ssh -i .\aws-ec2-key.pem  ec2-user@ec2-3-94-79-77.compute-1.amazonaws.com

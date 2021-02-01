@@ -1,0 +1,17 @@
+{
+    "ip": "220.244.195.192",
+    "type": "ipv4",
+    "continent_code": "OC",
+    "continent_name": "Oceania",
+    "country_code": "AU",
+    "country_name": "Australia",
+    "is_eu": "false",
+    "geoname_id": 7281840,
+    "city": "Parramatta",
+    "region": "",
+    "lat": -33.8239,
+    "lon": 150.9929,
+    "tz_id": "Australia/Sydney",
+    "localtime_epoch": 1612159428,
+    "localtime": "2021-02-01 17:03"
+}

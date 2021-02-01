@@ -5,6 +5,6 @@ module.exports = {
     api: {
         prefix: process.env.API_PREFIX || '/api/v1',
     },
-    // mongoose: 'mongodb+srv://admin:lkhlkh28@cluster0.mnk22.mongodb.net/easy-grade?retryWrites=true&w=majority',
-    mongoose: 'mongodb://127.0.0.1:27017/koa',
+    mongoose: 'mongodb+srv://root:baojian123@cluster0.ypkcd.mongodb.net/test',
+    // mongoose: 'mongodb://127.0.0.1:27017/koa',
 };

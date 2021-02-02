@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "rh": 62,
+            "pod": "d",
+            "lon": 150.99,
+            "pres": 1005.2,
+            "timezone": "Australia/Sydney",
+            "ob_time": "2021-02-02 06:45",
+            "country_code": "AU",
+            "clouds": 37,
+            "ts": 1612248300,
+            "solar_rad": 364.8,
+            "state_code": "02",
+            "city_name": "City of Parramatta",
+            "wind_spd": 0.89,
+            "wind_cdir_full": "south-southwest",
+            "wind_cdir": "SSW",
+            "slp": 1008.6,
+            "vis": 5,
+            "h_angle": 51.4,
+            "sunset": "09:00",
+            "dni": 738.96,
+            "dewpt": 14.2,
+            "snow": 0,
+            "uv": 2.26612,
+            "precip": 0,
+            "wind_dir": 208,
+            "sunrise": "19:19",
+            "ghi": 374.97,
+            "dhi": 86.5,
+            "aqi": 12,
+            "lat": -33.82,
+            "weather": {
+                "icon": "c02d",
+                "code": 801,
+                "description": "Few clouds"
+            },
+            "datetime": "2021-02-02:06",
+            "temp": 21.7,
+            "station": "E0447",
+            "elev_angle": 23.55,
+            "app_temp": 21.6
+        }
+    ],
+    "count": 1
+}

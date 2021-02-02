@@ -11,6 +11,8 @@ router.delete("/users/:id", userController.delete);
 router.get("/users/:id", userController.show);
 router.put("/users/:id", userController.update);
 
-router.post("/weather/iplookup", weatherController.geoinfo);
-router.post("/weather/fortnight", weatherController.fortnightWeather)
+router.post("/weather/iplookup", weatherController.iplookup);
+router.post("/weather/current", weatherController.currentWeather);
+router.post("/weather/fortnight", weatherController.fortnightWeather);
+router.post("/weather/hourly", weatherController.hourlyWeather)
 module.exports = router;

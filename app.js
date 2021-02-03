@@ -6,7 +6,7 @@ const cors = require('koa-cors');
 
 const app = new koa();
 
-app.use(cors({credentials: true, origin:"http://localhost:3000"}));
+app.use(cors({credentials: true, origin:["http://localhost:3000","http://weather-app-frontend.s3-website-us-east-1.amazonaws.com/"]}));
 app.use(bodyParser());
 app.use(koaRequest({
   json: true,
